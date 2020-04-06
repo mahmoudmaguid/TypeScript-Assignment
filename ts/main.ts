@@ -58,7 +58,7 @@ console.log(areaOfTriangle(5,6));
 
 //edabit Meduim Assignment #2 ----------------
 
-function getBudgets(array) {
+function getBudgets(array: string | any[]) {
 
 	var sum =0 /* i declare var  sum with inital value of 0 */ 
 
